@@ -1,4 +1,13 @@
-### Hi there 👋
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-enrique-ocampo-calero-55364023/) ![github watchers](https://img.shields.io/github/watchers/fernandoocampo/fernandoocampo?style=social)
+
+## Fernando Ocampo
+
+### About Me 🏍️
+
+Constant learner, Passionate software developer, These days I work extensively with Go, good practices advocate,  Rider
+
+- 🔭 I’m currently working on software development.
+
 
 <!--
 **fernandoocampo/fernandoocampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
