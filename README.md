@@ -1,4 +1,4 @@
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-enrique-ocampo-calero-55364023/) ![github watchers](https://img.shields.io/github/watchers/fernandoocampo/fernandoocampo?style=social)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-enrique-ocampo-calero-55364023/) ![github watchers](https://img.shields.io/github/watchers/fernandoocampo/fernandoocampo?style=social) ![github followers](https://img.shields.io/github/followers/fernandoocampo?style=Follow)
 
 ## Fernando Ocampo
 
