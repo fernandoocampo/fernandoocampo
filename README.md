@@ -6,7 +6,7 @@
 
 Constant learner, Passionate software developer, These days I work extensively with Go, good practices advocate,  Rider
 
-- 🔭 I’m currently working on software development.
+- 🔭 I’m currently working on software development with product and platform teams.
 
 ### Languages and Tools :hammer_and_wrench:
 
